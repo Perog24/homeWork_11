@@ -9,6 +9,7 @@ res.status(200).send(`<h1 style = 'color: red'>Hello, world!</h1>
 });
 
 server.get('/about', (_req, res)=>{
+   
 res.status(200).send(`<h1>aboute page!</h1>
 <a href="/" >Home</a>`);
 });
