@@ -1,0 +1,12 @@
+body{
+   background-color: black;
+   color: red;
+   text-align: center;
+   padding-top: 20%;
+}
+a{
+   color: red;
+   text-shadow: 1px 1px 1px white;
+   text-decoration: none;
+   font: 1.2em sans-serif;
+}

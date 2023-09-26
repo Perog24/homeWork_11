@@ -1,0 +1,13 @@
+body{
+   background-color: cornflowerblue;
+   color: aliceblue;
+   text-shadow: 1px 1px 1px #aa1111;
+   text-align: center;
+}
+a {
+   text-decoration: none;
+   color: aquamarine;
+   &:hover {
+      color: green;
+   }
+}
